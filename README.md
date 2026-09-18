@@ -1,8 +1,13 @@
 # TestyMcTestFace
-This is a test repo to teach github repos to students
+Mål med lektionen:
 
-Here is text proving our first push
+# Skapa/recap .gitignore
+- Ignorera temporära filer, dependencies och personliga inställningar
+- toptal.com
 
-"Hello World"
+# Branches och arbeta med andra
+- Testa utan risk. Testa från tidigare versioner. Mindre förlust av arbete när saker slutar fungera
+- Skapa branch
+- merga med main
 
 - Olle Reberg, 2026 #deep
