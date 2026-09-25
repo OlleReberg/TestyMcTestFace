@@ -6,7 +6,7 @@ class Elev:
         self.program = program
 
     def elev_info(self):
-        print("Hej, ",self.name)
+        print(f"Hej, {self.name: 6.4}")
         print("Du är", self.age, "gammal")
         print("Du läser", self.program+"program")
 
