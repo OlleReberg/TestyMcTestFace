@@ -1,5 +1,5 @@
 # TestyMcTestFace
-Mål med lektionen:
+Här har vi en basfil som ska beskriva projektet i Github README
 
 # Skapa/recap .gitignore
 - Ignorera temporära filer, dependencies och personliga inställningar
